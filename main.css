@@ -1,0 +1,98 @@
+body {
+    background-color: burlywood;
+
+}
+
+div {
+    width: 15em;
+    margin-bottom: 1em;
+}
+
+#september {
+    background-color: #ffbb00;
+    border: #ff0088 solid .3em;
+    color:  #00ffee;
+    font: medium Luci, monospace;
+}
+
+#october {
+    background-color: #ff7e14;
+    border: #e814ff dotted .3em;
+    color: #2cff14;
+    font: medium Courier, monospace;
+}
+
+#november {
+    background-color: #39a9ff;
+    border: #ffe539 groove .3em;
+    color: #ff3971;
+    font: medium Monaco, monospace;
+
+}
+
+#december {
+    background-color: #0389ff;
+    border: #e814ff dashed .3em;
+    color: #ff0342;
+    font: medium "Lucida Grande", monospace;
+}
+
+#january {
+    background-color: #ba4bff;
+    border: #87ff4b ridge .3em;
+    color: #ff844b;
+    font: medium "Comic Sans MS", sans-serif;
+}
+
+#february {
+    background-color: #04ffa3;
+    border: #ff1a01 outset .3em;
+    color: #2701ff;
+    font: medium "Trebuchet MS", sans-serif;
+}
+
+#march {
+    background-color: #f7ff00;
+    border: #ff0d00 solid .3em;
+    color: #0d00ff;
+    font: medium Helvetica, sans-serif;
+}
+
+#april {
+    background-color: #52ff02;
+    border: #ff5b02 dotted .3em;
+    color: #af02ff;
+    font: medium "Arial Black", sans-serif;
+
+}
+
+#may {
+    background-color: #04ff58;
+    border: #ff9b04 groove .3em;
+    color: #ff04d5;
+    font: medium Georgia, serif;
+}
+
+
+#june {
+    background-color: #ff0080;
+    border: #00eeff dashed .3em;
+    color: #ffbf00;
+    font: medium "Times New Roman", serif;
+}
+
+#july {
+    background-color: #ff0000;
+    border: #0900ff ridge .3em;
+    color: #ffff00;
+    font: medium Didot, serif;
+}
+
+#august {
+    background-color: #ff4400;
+    border: #9500ff outset .3em;
+    color: #73ff00;
+    font: medium Helvetica, serif;
+}
+
+
